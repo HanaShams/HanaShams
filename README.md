@@ -20,44 +20,6 @@
 
 ---
 
-### 🚀 Objective
-
-Motivated and detail-oriented final-year undergraduate in ICT at SEUSL, seeking an internship as a **Mobile App Developer**. Skilled in **Android**, **Flutter**, and **Firebase** with a passion for impactful real-world projects and continuous learning.
-
----
-
-### 💼 Projects
-
-- **🔔 Smart Pill Reminder (Group)**  
-  `ESP32`, `Firebase`, `Blynk`, `PIR`, `Arduino`  
-  → IoT-based system for smart pill alerts and cloud-based schedule tracking.
-
-- **🍽️ MealMate – University Food Ordering System (Group)**  
-  `Java`, `PHP`, `MySQL`, `HTML`, `CSS`, `XAMPP`  
-  → Web system for students to order food and restaurants to manage menus.
-
-- **☁️ Serverless Inventory Monitoring App (Group)**  
-  `Microsoft Azure`, `Cosmos DB`, `Blob Storage`, `Node.js`, `React`, `SendGrid`  
-  → Scalable app for stock tracking with real-time notifications.
-
-- **🗳️ Online Voting System (Group)**  
-  `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`  
-  → Secure platform for managing voting and candidate registration.
-
-- **📱 BMI Calculator App (Individual)**  
-  `Java`, `Android Studio`  
-  → Health-based app with BMI calculation and wellness tips.
-
-- **💸 Expense Tracker App (Individual)**  
-  `Java`, `Android Studio`  
-  → Track expenses with easy editing and daily summaries.
-
-- **📝 QuickNote App (Individual)**  
-  `Java`, `RecyclerView`, `Android Studio`  
-  → A clean UI app for categorized and editable note-taking.
-
----
-
 ### 💻 Tech Stack
 
 #### 🚀 Languages & Tools
@@ -111,17 +73,6 @@ Motivated and detail-oriented final-year undergraduate in ICT at SEUSL, seeking 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-
----
-
-### 📜 Certifications
-
-- 🟡 **AWS Academy Cloud Foundations** – Dec 2024  
-- 🟡 **Data Analytics Masterclass** – NoviTech, Jul 2024  
-- 🟡 **AI Masterclass** – NoviTech, Jul 2024  
-- 🟡 **IT Essentials** – Cisco, Sep 2022  
-- 🟡 **Microsoft Azure: Dashboard in a Day**  
-- 🟡 **Azure for Researchers Part 1**
 
 ---
 
