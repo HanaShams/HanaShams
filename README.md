@@ -1,83 +1,74 @@
-# 👋 Hi, I'm Hana Hasmath
 
-🎓 Final-Year ICT Undergraduate (Software Technologies) at SEUSL  
-📍 Ampara, Sri Lanka  
-💻 Android | Flutter | Firebase | IoT Enthusiast  
-📫 Email: [hanashams10.20@gmail.com](mailto:hanashams10.20@gmail.com)  
-🔗 [GitHub](https://github.com/HanaShams) | [LinkedIn](https://www.linkedin.com/in/hana-shams-a61a10229)
+<h1 align="center">Hi there, I'm Hana Hasmath 👋</h1>
 
----
-
-### 🚀 Objective
-Motivated and detail-oriented final-year undergraduate in ICT at SEUSL, seeking an internship as a Mobile App Developer. Skilled in Android, Flutter, and Firebase with a passion for impactful real-world projects and continuous learning.
+<p align="center">
+  <strong>🎓 Final-Year ICT Undergraduate | 💻 Mobile & IoT App Developer | 📍 Ampara, Sri Lanka</strong><br>
+  <a href="mailto:hanashams10.20@gmail.com">📫 Email</a> | 
+  <a href="https://www.linkedin.com/in/hana-shams-a61a10229">LinkedIn</a> | 
+  <a href="https://github.com/HanaShams">GitHub</a>
+</p>
 
 ---
 
-### 💼 Projects
-
-- **🔔 Smart Pill Reminder (Group)**  
-  `ESP32`, `Firebase`, `Blynk`, `PIR`, `Arduino`  
-  → IoT system for smart pill notifications with Firebase logging
-
-- **📱 BMI Calculator App (Individual)**  
-  `Java`, `Android Studio`  
-  → Health-based BMI calculator with recommendations
-
-- **💸 Expense Tracker (Individual)**  
-  `Java`, `Android Studio`  
-  → Tracks daily expenses with totals and edit/remove options
-
-- **📝 QuickNote App (Individual)**  
-  `Java`, `RecyclerView`, `Android Studio`  
-  → Note-taking app with edit/delete & categorization
+### 🎯 Objective
+Motivated and detail-oriented final-year undergraduate in ICT at SEUSL, specializing in software technologies. Seeking an internship as a Mobile App Developer to apply strong skills in Android, Flutter, and Firebase. Passionate about real-world projects, continuous learning, and teamwork.
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Projects
+- 🔔 **Smart Pill Reminder** – IoT-based alert system using ESP32, Firebase & Blynk.
+- 💸 **Expense Tracker App** – Android app for daily expense tracking with CRUD operations.
+- 📝 **QuickNote App** – Note-taking app with category support and RecyclerView.
+- 📱 **BMI Calculator** – Android health app providing BMI analysis and tips.
 
-**Languages:**  
+---
+
+### 🧰 Tech Stack
+
+**Languages & Web:**  
 `Java`, `JavaScript`, `Python`, `PHP`, `HTML`, `CSS`, `C`
 
-**Mobile Dev:**  
+**Mobile Development:**  
 `Android Studio`, `Flutter`, `Firebase`
 
-**Backend & Database:**  
+**Backend & Databases:**  
 `Node.js`, `Express.js`, `MongoDB`, `MySQL`, `Firebase Realtime DB`
 
-**IoT & Platforms:**  
-`ESP32`, `Arduino`, `Blynk`, `ThingSpeak`, `Twilio`, `ThingsBoard`, `Wokwi`
+**IoT & Tools:**  
+`ESP32`, `Arduino`, `Blynk`, `ThingSpeak`, `Twilio`, `Wokwi`
 
-**Tools:**  
-`Git`, `GitHub`, `VS Code`, `Microsoft Azure`, `AWS`
+**Dev Tools:**  
+`Git`, `GitHub`, `VS Code`, `Azure`, `AWS`
 
 ---
 
 ### 📜 Certifications
 
-- 🟡 AWS Academy Cloud Foundations – *Dec 2024*  
-- 🟡 Data Analytics Masterclass – *NoviTech, Jul 2024*  
-- 🟡 AI Masterclass – *NoviTech, Jul 2024*  
-- 🟡 IT Essentials – *Cisco, Sep 2022*  
-- 🟡 Microsoft Azure: Dashboard in a Day  
-- 🟡 Azure for Researchers Part 1
+- ☁️ AWS Academy Cloud Foundations – *Dec 2024*
+- 📊 Data Analytics – *NoviTech, Jul 2024*
+- 🤖 AI Masterclass – *NoviTech, Jul 2024*
+- 🛠️ IT Essentials – *Cisco, Sep 2022*
+- 📈 Azure Workshops – Microsoft
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanaShams&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaShams&layout=compact&theme=tokyonight)
-
-![Visitors](https://komarev.com/ghpvc/?username=HanaShams&color=blue)
-
----
-
-### 📌 Pinned Projects (sample links)
-- [Smart Pill Reminder](https://github.com/HanaShams/SmartPillReminder)
-- [QuickNote App](https://github.com/HanaShams/QuickNote)
-- [Expense Tracker](https://github.com/HanaShams/ExpenseTracker)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanaShams&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaShams&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=HanaShams&color=blue" alt="Visitors"/>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Let’s connect and build something awesome together.*
+### 📌 Featured Projects
+<a href="https://github.com/HanaShams/SmartPillReminder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HanaShams&repo=SmartPillReminder&theme=tokyonight" /></a>
+<a href="https://github.com/HanaShams/QuickNote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HanaShams&repo=QuickNote&theme=tokyonight" /></a>
+<a href="https://github.com/HanaShams/ExpenseTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HanaShams&repo=ExpenseTracker&theme=tokyonight" /></a>
+
+---
+
+<p align="center">Last updated in July 2025 • Made with ❤️ by Hana Hasmath</p>
