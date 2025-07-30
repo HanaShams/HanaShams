@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Hana Hasmath</h1>
 
-<p align="center">
+<p>
 🎓 Final-Year ICT Undergraduate (Software Technologies) at SEUSL  
 <br>📍 Ampara, Sri Lanka  
 <br>💻 Android | Flutter | Firebase | IoT Enthusiast  
