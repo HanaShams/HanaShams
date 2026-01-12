@@ -3,7 +3,7 @@
 <p>
 🎓 Final-Year ICT Undergraduate (Software Technologies) at SEUSL  
 <br>📍 Ampara, Sri Lanka  
-<br>💻 Android | Flutter | Firebase | IoT Enthusiast  
+<br>💻 Android | Flutter | Firebase | IoT Enthusiast  | Full Stack Develoer
 <br>📫 Email: <a href="mailto:hanashams10.20@gmail.com">hanashams10.20@gmail.com</a>  
 </p>
 
